@@ -1,1 +1,1 @@
-# Prediction-of-Sumspots
+# Prediction-of-Sunspots
